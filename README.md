@@ -1,5 +1,6 @@
-## Date-29/04/2022
-# <p align="center"> Ex.No:6 Build a program to create a first display screen of any search engine using Auto Complete Text View</P>
+## Ex No: 06
+## Date : 29/04/2022
+# <p align="center"> Build a program to create a first display screen of any search engine using Auto Complete Text View</P>
 
 ## AIM:
 To develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio.
