@@ -1,4 +1,6 @@
-# Ex.No:6 Build a program to create a first display screen of any search engine using Auto Complete Text View.
+## Date-29/04/2022
+# <p align="center"> Ex.No:6 Build a program to create a first display screen of any search engine using Auto Complete Text View</P>
+
 ## AIM:
 To develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio.
 
@@ -28,6 +30,10 @@ Developed by: P.Suganya
 Registeration Number : 212220230049
 */
 ```
+</br>
+</br>
+</br>
+</br>
 
 ### MainActivity.java
 ```java
@@ -110,6 +116,24 @@ tools:context=".MainActivity">
         app:srcCompat="@drawable/fruit" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT
 
 ![EXP_6_O1](https://user-images.githubusercontent.com/77089743/169496844-961ab288-5a55-47e9-8540-b7a7a659ac80.jpeg)
